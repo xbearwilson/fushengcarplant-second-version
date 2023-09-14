@@ -1,0 +1,41 @@
+{
+	"header": {
+		"locale_switcher": {
+			"zh": "中文",
+			"en": "English"
+		}
+	},
+	"home": {
+		"title": "Located in Neihu District, Fusheng Auto Warranty",
+		"title_content": "Started in 1989, for the Neihu District of Taipei City, in the local operation of more than thirty years of car warranty shop, the main service items for the professional Japanese brand car repair and maintenance, including:",
+		"txtb1": "MITSUBISHI, TOYOTA, Nissan, HONDA, and Ford.",
+		"subTitle": "Clean, bright and spacious warranty area",
+		"subTitle_p": "We have a team of experienced technicians with a wealth of technical and warranty experience, as well as a full range of high-quality professional services and extensive experience, accurate and to the point for the safety of your car. In addition to car maintenance and repair, Fortune Auto Warranty can also meet other needs of car owners, such as: computer diagnostics, engine chassis, tyres, sheet metal,.... etc.",
+		"txtb2": "Fusheng Auto Warranty is also a MITSUBISHI Motors Special Warranty Factory.",
+		"cc1": "Address：",
+		"cc1c": "No. 37, Ln. 76, Ruiguang Rd., Neihu Dist., Taipei City",
+		"cc2": "TEL：",
+		"cc3": "Opening hours：",
+		"cc3c": "Mon - Sat AM 8:00 - PM 18:00",
+		"msgTxt": "With the summer heat on its way, car owners should remember to have their air-conditioning checked first so that your car can stay cool all summer long."
+	},
+	"mct": {
+		"title1": "Regular Maintenance",
+		"p1": "Professional technicians will provide maintenance-related services according to the mileage of your car to ensure that your car is in the best and safest condition.",
+		"title2": "Computer Diagnostics",
+		"p2": "Provide accurate inspection data so that professional technicians can provide more accurate warranty information for your car.",
+		"title3": "Chassis Brakes",
+		"p3": "Clutch, Transmission... Wheels, shock absorbers... Steering axle, steering crossbar... Brake discs, brake pads... All of these are very important for driving safety.",
+		"title4": "Air-conditioning",
+		"p4": "Professional technicians will check and adjust the air-conditioning system of your car to ensure that the air-conditioning system of your car operates more smoothly.",
+		"title5": "Sheet-metal baking paint",
+		"p5": "The level of craftsmanship of the technician affects the quality, and the professional and precise construction process will give your car a new look.",
+		"title6": "Tyre Positioning",
+		"p6": "Incorrect wheel or tyre alignment can lead to uneven or early wear of your car's tyres, and tyre balancing is necessary for tyre maintenance."
+	},
+	"foot": {
+		"copy": "© 2018 Fusheng Auto Warranty",
+		"add": "No. 37, Ln. 76, Ruiguang Rd., Neihu Dist., Taipei City",
+		"time": "Mon - Sat AM 8:00 - PM 18:00"
+	}
+}
