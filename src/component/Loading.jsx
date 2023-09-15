@@ -15,7 +15,7 @@ export const Loading = ({ percentage }) => {
 				<div className='lorderWrap'>
 					<Image
 						className='loaderLogo'
-						src='/img/logo.svg'
+						src='/img/Logo.svg'
 						width={0}
 						height={0}
 						alt='台北市內湖區富勝汽車保修-專業日系品牌汽車維修與保養'
