@@ -280,7 +280,7 @@ export const Content = () => {
 								</div>
 								<div className='msgB'>
 									<img
-										src='/img/msgB.webp'
+										src='/img/msgb.webp'
 										alt='台北市內湖區富勝汽車保修-專業日系品牌汽車維修與保養'
 										title=''
 									/>
