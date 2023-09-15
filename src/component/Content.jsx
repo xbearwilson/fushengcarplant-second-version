@@ -7,8 +7,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
 import { Animscene } from '../scene'
+import { fadeIn } from '../variants'
 import { Slider } from './Slider'
-import { fadeIn } from './variants'
 
 export const Content = () => {
 	const targetRef = useRef(null)

@@ -1,8 +1,8 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable @next/next/no-img-element */
+import { Content } from '@/component/Content'
+import { Loading } from '@/component/Loading'
 import { useEffect, useState } from 'react'
-import { Content } from './Content'
-import { Loading } from './Loading'
 
 // const inter = Inter({ subsets: ['latin'] })
 
