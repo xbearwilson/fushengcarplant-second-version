@@ -43,6 +43,10 @@ export default function App({ Component, pageProps }) {
 		<>
 			<Head>
 				<meta
+					name='google-site-verification'
+					content='lStFUJK3PXY3Q2Lel0NsTOTMaX2mITS-T3QRvKWbicI'
+				/>
+				<meta
 					name='robots'
 					content='index, follow'
 				/>
