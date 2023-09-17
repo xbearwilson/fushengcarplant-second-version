@@ -9,6 +9,24 @@
 
 <url>
   <loc>https://www.fusheng.website/</loc>
+	<image:image>
+		<image:loc>https://www.fusheng.website/img1.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fusheng.website/img2.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fusheng.website/img3.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fusheng.website/img4.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fusheng.website/img5.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fusheng.website/img6.jpg</image:loc>
+	</image:image>
   <lastmod>2023-09-16T05:10:44+00:00</lastmod>
 </url>
 
