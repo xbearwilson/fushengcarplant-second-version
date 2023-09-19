@@ -58,6 +58,18 @@ export default function App({ Component, pageProps }) {
 					httpEquiv='content-type'
 					content='text/html'
 				/>
+				<meta
+					itemprop='name'
+					content={title}
+				/>
+				<meta
+					itemprop='description'
+					content={description}
+				/>
+				<meta
+					itemprop='image'
+					content={ogImgUrl}
+				/>
 				{/* Search Engine Optimization Meta Tags */}
 				<title>{title}</title>
 				<meta
