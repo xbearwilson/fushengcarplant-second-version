@@ -203,6 +203,13 @@ export default function App({ Component, pageProps }) {
 					name='twitter:image:type'
 					content={ogImgType}
 				/>
+				<script type="application/ld+json">
+				{
+					"@context": "http://schema.org",
+					"@type": "LocalBusiness",
+					"name": "台北市內湖區富勝汽車保修-專業日系品牌汽車維修與保養"
+				}
+				</script>
 			</Head>
 			<IntlProvider
 				locale={locale}
